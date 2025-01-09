@@ -1,0 +1,2 @@
+api_key: openweathermap_api_key
+database_path: /path/to/local_database.db
